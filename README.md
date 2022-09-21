@@ -1,2 +1,2 @@
-# Project1
+# Prediactor Project
 Stock analyzer &amp; predictor
